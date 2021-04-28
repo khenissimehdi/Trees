@@ -92,7 +92,7 @@ int height(node *t)
 {
 
   if (t == NULL)
-    return 0;
+    return -1;
   else
   {
 
